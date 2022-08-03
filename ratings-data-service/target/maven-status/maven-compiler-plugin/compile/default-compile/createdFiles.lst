@@ -1,0 +1,4 @@
+io\javabrains\ratingsdataservice\models\Ratings.class
+io\javabrains\ratingsdataservice\resource\RatingsDataResource.class
+io\javabrains\ratingsdataservice\models\UserRating.class
+io\javabrains\ratingsdataservice\RatingsDataServiceApplication.class
